@@ -1,0 +1,14 @@
+[
+	{
+		"caption": "STT: Start Timer",
+		"command": "stt_start_timer"
+	},
+	{
+		"caption": "STT: Stop Timer",
+		"command": "stt_stop_timer"
+	},
+	{
+		"caption": "STT: Delete Timer",
+		"command": "stt_delete_timer"
+	}
+]

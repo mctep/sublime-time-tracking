@@ -1,0 +1,26 @@
+[
+	{
+		"caption": "Tools",
+		"id": "tools",
+		"mnemonic": "t",
+		"children": [
+			{
+				"caption": "STT",
+				"children": [
+					{
+						"caption": "Start Timer",
+						"command": "stt_start_timer"
+					},
+					{
+						"caption": "Stop Timer",
+						"command": "stt_stop_timer"
+					},
+					{
+						"caption": "Delete Timer",
+						"command": "stt_delete_timer"
+					}
+				]
+			}
+		]
+	}
+]

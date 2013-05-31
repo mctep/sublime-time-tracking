@@ -1,0 +1,5 @@
+[
+	{ "keys": ["super+shift+o","super+shift+o"], "command": "stt_start_timer" },
+	{ "keys": ["super+shift+o","super+shift+p"], "command": "stt_stop_timer" },
+	{ "keys": ["super+shift+o","super+shift+l"], "command": "stt_delete_timer" }
+]
